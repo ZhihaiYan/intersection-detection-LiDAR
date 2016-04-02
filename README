@@ -1,6 +1,5 @@
 3D LIDAR-based Intersection Locating and Orientation Estimation for Autonomous Vehicle
 --------------------------------------------------------------------------------------
-Please uncompress the lidar_demo.7z.001-007 into current directory.
 Run matlab, change into the lidar_demo directory and run
 "Demo.m", the result will print out each frame.
 
